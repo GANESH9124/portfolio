@@ -1,0 +1,9 @@
+__pycache__/
+venv/
+.env
+.env.example
+*.db
+.pytest_cache/
+api_doc.md
+__init__.py
+api_test_examples.md
